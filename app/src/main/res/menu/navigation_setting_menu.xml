@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_giaodien"
+        android:title="Giao diện"
+        ></item>
+    <item
+        android:id="@+id/nav_Font"
+        android:title="Tuỳ chọn văn bản"
+        ></item>
+    <item
+        android:id="@+id/nav_News"
+        android:title="Tin tức"
+        app:actionLayout="@layout/switch_item"
+        android:checked="true"/>
+    <item
+        android:id="@+id/nav_Cookie"
+        android:title="Cookie"
+        android:checked="true"
+        app:actionLayout="@layout/switch_item" />
+    <item
+        android:id="@+id/nav_Nightmode"
+        android:title="Chế độ ban đêm"
+        app:actionLayout="@layout/switch_item" />
+    <item
+        android:id="@+id/nav_delete"
+        android:title="Xoá dữ liệu duyệt web"
+        ></item>
+    <item
+        android:id="@+id/nav_gioithieu"
+        android:title="Giới thiệu về QuiBrower"
+        ></item>
+</menu>

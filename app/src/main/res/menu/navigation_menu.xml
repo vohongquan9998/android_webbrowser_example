@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_favorite"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Yêu thích" />
+    <item
+        android:id="@+id/nav_history"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="Lịch sử" />
+    <item
+        android:id="@+id/nav_font"
+        android:icon="@drawable/ic_baseline_font_download_24"
+        android:title="Tuỳ chọn văn bản" />
+    <item
+        android:id="@+id/nav_download"
+        android:icon="@drawable/download"
+        android:title="Tải xuống" />
+    <item
+        android:id="@+id/nav_darkmode"
+        android:icon="@drawable/ic_baseline_dark_mode_24"
+        android:title="Chế độ ban đêm" />
+    <item
+        android:id="@+id/nav_theme"
+        android:icon="@drawable/ic_baseline_preview_24"
+        android:title="Giao diện" />
+    <item
+        android:id="@+id/nav_deletehis"
+        android:icon="@drawable/ic_baseline_auto_delete_24"
+        android:title="Xoá dữ liệu web" />
+    <item
+        android:id="@+id/nav_aboutus"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Giới thiệu" />
+    <item
+        android:id="@+id/nav_exit"
+        android:icon="@drawable/exit"
+        android:title="Thoát" />
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="normalTheme">
+        <item name="android:background">@drawable/gradient</item>
+    </style>
+    <style name="hotTheme">
+        <item name="android:background">@drawable/gradient_hot</item>
+    </style>
+
+</resources>

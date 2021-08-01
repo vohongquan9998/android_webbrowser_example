@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WebBrowser</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Closer</string>
+    <string name="title_activity_tab_layout">TabLayoutActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
